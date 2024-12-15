@@ -1,0 +1,36 @@
+(base) PS D:\UAS MK PAA> & C:/Users/ASUS/AppData/Local/Programs/Python/Python313/python.exe "d:/UAS MK PAA/extensi.py"
+Array with n=100: NOT UNIQUE
+Worst Case Time for n=100: 0.0000036000 seconds
+Average Case Time for n=100: 0.0000051000 seconds
+
+Array with n=150: NOT UNIQUE
+Worst Case Time for n=150: 0.0000026000 seconds
+Average Case Time for n=150: 0.0000069000 seconds
+
+Array with n=200: NOT UNIQUE
+Worst Case Time for n=200: 0.0000027000 seconds
+Average Case Time for n=200: 0.0000047000 seconds
+
+Array with n=250: NOT UNIQUE
+Worst Case Time for n=250: 0.0000033000 seconds
+Average Case Time for n=250: 0.0000066000 seconds
+
+Array with n=300: NOT UNIQUE
+Worst Case Time for n=300: 0.0000045000 seconds
+Average Case Time for n=300: 0.0000071000 seconds
+
+Array with n=350: NOT UNIQUE
+Worst Case Time for n=350: 0.0000210000 seconds
+Average Case Time for n=350: 0.0000088000 seconds
+
+Array with n=400: NOT UNIQUE
+Worst Case Time for n=400: 0.0000074000 seconds
+Average Case Time for n=400: 0.0000083000 seconds
+
+Array with n=450: NOT UNIQUE
+Worst Case Time for n=450: 0.0000076000 seconds
+Average Case Time for n=450: 0.0000094000 seconds
+
+Array with n=500: NOT UNIQUE
+Worst Case Time for n=500: 0.0000135000 seconds
+Average Case Time for n=500: 0.0000150000 seconds
